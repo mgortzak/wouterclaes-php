@@ -1,0 +1,1 @@
+In footer.php staat (in httpdocs) het jaar van de copyright.

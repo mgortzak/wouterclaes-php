@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /js/
+Disallow: /php/config/
+Disallow: /php/languages/
+Disallow: /html/
+
+Sitemap: http://www.wouterclaes.nl/sitemap.xml
