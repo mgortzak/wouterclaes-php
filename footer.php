@@ -7,7 +7,7 @@
 
 <table>
   <tr> 
-    <td class="footer">&copy;2009/2018 Hans Mol & Mark Gortzak</td>
+    <td class="footer">&copy;2009/<?php echo date("Y"); ?> Hans Mol & Mark Gortzak</td>
   </tr>
   
   <tr>
